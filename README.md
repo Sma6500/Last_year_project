@@ -1,3 +1,3 @@
 # VectorMorph
 
-Details can be fine in the "rendus_finaux" folder
+Details can be find in the "rendus_finaux" folder
